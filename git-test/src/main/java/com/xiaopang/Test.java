@@ -12,5 +12,6 @@ public class Test {
         System.out.println("master commit2");
         System.out.println("master commit3");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
